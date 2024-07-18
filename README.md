@@ -1,7 +1,7 @@
 # 📒 Documentação do Projeto
 
 <p align="justify">
-Durante a disciplina de Microcontroladores, sob a orientação do professor Arquimedes Paschoal, como atividade, eu e meus amigos ficamos encarregados de realizar uma atividade com LED's.
+Durante a disciplina de Microcontroladores, sob a orientação do professor Arquimedes Paschoal, como atividade, eu e meus amigos ficamos encarregados de realizar uma atividade com LED's RGB.
 
 Esse foi o pedido do professor:
 
