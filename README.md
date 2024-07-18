@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/ca6b00d1-081c-4f21-8166-97b9c1ec7f49
 
 <br>
 
-## 🌐 Autor
+## 🌐 Autores
 
 - Hailton de Melo Lima Neto
 - Lucas Chaves Sampaio Ferrer
