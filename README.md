@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/ca6b00d1-081c-4f21-8166-97b9c1ec7f49
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" heigth="30" width="40" src="https://github.com/hailtonneto/IFPE-Controle-de-Direcao-de-um-motor-de-passo-bipolar/assets/130097508/fa5b8991-0734-4da4-92e9-58bb639e6ab7">
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
 </div>
 
